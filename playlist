@@ -593,6 +593,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 #EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon TV
 https://nyanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1006
+#EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png", iQIYI (My)
+https://astro.cdnstreamr.workers.dev/dash-wv/linear/1006/default.mpd
+
 #EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="",Shenzen TV (F*)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch218%29/index.m3u8
 
@@ -944,6 +950,28 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 
 =======================================
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
+#EXTINF:-1 group-title="ASTRO-MALAY" tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png",HBO (My)
+https://astro.cdnstreamr.workers.dev/dash-wv/linear/2304/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
+#EXTINF:-1 group-title="ASTRO-MALAY" tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png",HBO Hits (My)
+https://astro.cdnstreamr.workers.dev/dash-wv/linear/5055/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
+#EXTINF:-1 group-title="ASTRO-MALAY" tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png",HBO Family (My)
+https://astro.cdnstreamr.workers.dev/dash-wv/linear/5053/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
+#EXTINF:-1 group-title="ASTRO-MALAY" tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png",Cinemax (My)
+https://astro.cdnstreamr.workers.dev/dash-wv/linear/603/default.mpd
+
+=======================================
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
@@ -1253,6 +1281,23 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 
 ########################## SPORTS ##########################
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408 
+#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png", beIN SPORTS (My)
+https://astro.cdnstreamr.workers.dev/dash-wv/linear/408/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png", beIN SPORTS 2 (My)
+https://astro.cdnstreamr.workers.dev/dash-wv/linear/5066/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
+#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png", bEIN SPORTS 3 (My)
+https://astro.cdnstreamr.workers.dev/dash-wv/linear/2705/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8453753ad98627104b70c6c75d922d6:c7577969241b3d500fd569e9a38672ae
