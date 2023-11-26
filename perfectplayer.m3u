@@ -135,6 +135,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/thrill.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvnmovies.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/9-MOVIES/Zee%20Bioskop%20SD-FirstMedia-Chl-161.jpg" group-title="Film",Zee Bioskop
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/zeebioskop.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDmtJTdr/z.png" group-title="Film",Zee Cinema
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/zeecinema.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_afc_small.png" group-title="Gaya Hidup",Asian Food Network
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/afn.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4438aed45f7b7df82c2bcba4858c3d88.png" group-title="Gaya Hidup",Eat&Go
