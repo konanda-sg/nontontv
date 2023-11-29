@@ -335,6 +335,10 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/arirang.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cctv4.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Dragon%20TV%20SD-FirstMedia-Chl-215.jpg" group-title="TV Internasional",Dragon TV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dragon.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iSI4kky.png" group-title="TV Internasional",Dubai One
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dubaione.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BWVqlXp.png" group-title="TV Internasional",Dubai TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dubaitv.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/DW%20Deutsch%20SD-FirstMedia-Chl-232.jpg" group-title="TV Internasional",DW Deutsch
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dwdeutsch.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/DW%20English%20SD-FirstMedia-Chl-233.jpg" group-title="TV Internasional",DW English
@@ -343,6 +347,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/dwenglish.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hunan.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Jingsu%20TV%20SD-FirstMedia-Chl-216.jpg" group-title="TV Internasional",Jiangsu TV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/jiangsu.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="TV Internasional",MBC
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/mbc.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Rai%20Italia%20SD-FirstMedia-Chl-258.jpg" group-title="TV Internasional",Rai Italia
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/rai.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/4-ENTERTAINMENT/Shenzen%20TV%20SD-FirstMedia-Chl-218.jpg" group-title="TV Internasional",Shenzen TV
