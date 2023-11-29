@@ -147,6 +147,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/afn.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/eatngo.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Fashion%20TV%20SD-FirstMedia-Chl-81.jpg" group-title="Gaya Hidup",Fashion TV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/fashiontv.m3u8
+#EXTINF:-1 group-title="Gaya Hidup",Fashion Midnight
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/fashionmidnight.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Food%20Network%20HD-FirstMedia-Chl-355.jpg" group-title="Gaya Hidup",Food Network
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b4da330f49c65c6be3540a71af81d638.png" group-title="Gaya Hidup",Fox Life
@@ -371,6 +373,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/indonesianatv.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/jakartaglobe.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Jak%20TV%20SD-FirstMedia-Chl-62.jpg" group-title="TV Lokal",Jak TV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/jaktv.m3u8
+#EXTINF:-1 group-title="TV Lokal",Jawa Post
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/jawapost.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/JTV%20SD-FirstMedia-Chl-17.jpg" group-title="TV Lokal",JTV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/jtv.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/magna-channel-id.png" group-title="TV Lokal",Magna Channel
