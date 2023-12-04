@@ -129,6 +129,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/kix.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/mycinema.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="Film",My Cinema Asia
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/mycinemaasia.m3u8
+#EXTINF:-1 group-title="Film",My Cinema Europe
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/mycinemaeurope.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="Film",My Family
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/mycinemafamily.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/images/BAM-Extreme-LOGO-B_RGB.png" group-title="Film",Rock Action
@@ -213,12 +215,16 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradangdut.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/ikonser.m3u8
 #EXTINF:-1 group-title="Musik",Local Now Music
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/localnowmusic.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="Musik",Music TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/musictv.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/10-MUSIC/mtv90s.jpg" group-title="Musik",MTV 90s
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/mtv90.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/10-MUSIC/MTV%20Live%20HD-FirstMedia-Chl-358.jpg" group-title="Musik",MTV Live
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/mtvlive.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="Musik",Music TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/musictv.m3u8
+#EXTINF:-1 group-title="Musik",MC Pop Hits
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=991601
+#EXTINF:-1 group-title="Musik",MC Romances
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=991595
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a5c26c764dbc192e64d3019219ebebaf.png" group-title="Musik",Prambors
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/prambors.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Festival%20HD-FirstMedia-Chl-344.jpg" group-title="Musik",Stingray Festival
@@ -264,7 +270,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv2.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="Olah Raga",TVRI Sport
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvrisports.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b3c7f04ad2b1bdc88af962a4b2402136.png" group-title="Olah Raga",Usee Prime
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/useeprime.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="Olah Raga",Usee Sport 1
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/useesport1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="Olah Raga",Usee Sport 2
@@ -291,6 +297,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/globaltrekker.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/1-DOCUMENTARY/History%20HD-FirstMedia-Chl-365.jpg" group-title="Pengetahuan",History
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/history.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/1-DOCUMENTARY/History%20HD-FirstMedia-Chl-365.jpg" group-title="Pengetahuan",History 2
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/history2.m2u8
 #EXTINF:-1 group-title="Pengetahuan",Investigation Discovery
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/investigationdiscovery.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/1-DOCUMENTARY/Love%20Nature%204K-FirstMedia-Chl-700.jpg" group-title="Pengetahuan",Love Nature
@@ -380,7 +388,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/jakartaglobe.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/Jak%20TV%20SD-FirstMedia-Chl-62.jpg" group-title="TV Lokal",Jak TV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/jaktv.m3u8
 #EXTINF:-1 group-title="TV Lokal",Jawa Post
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/jawapost.m3u8
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/JTV%20SD-FirstMedia-Chl-17.jpg" group-title="TV Lokal",JTV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/jtv.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/magna-channel-id.png" group-title="TV Lokal",Magna Channel
