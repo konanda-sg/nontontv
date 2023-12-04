@@ -83,6 +83,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/sindonews.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/seatoday.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/TRT%20World%20SD-FirstMedia-Chl-240.jpg" group-title="Berita & Bisnis",TRT World
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/trtworld.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/494/982/png-transparent-united-states-voice-of-america-internet-radio-voa-amharic-broadcasting-united-states-text-logo-united-states.png" group-title="Berita & Bisnis",VOA
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/voa.m3u8
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503432_tvchannels_v1.jpg" group-title="Berita & Bisnis",Wion
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/wion.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="Film",Bioskop Indonesia
