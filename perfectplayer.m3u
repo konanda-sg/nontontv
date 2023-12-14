@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/bloomberg.m3u8
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503457_tvchannels_v1.jpg" group-title="Berita & Bisnis",CCTV-4
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cctv4.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png" group-title="Berita & Bisnis",CBS News
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/cbsnews.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/CGTN%20SD-FirstMedia-Chl-210.jpg" group-title="Berita & Bisnis",CGTN
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cgtn.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/11-NEWS/Channel%20NewsAsia-FirstMedia-Chl-.jpg" group-title="Berita & Bisnis",CNA
@@ -137,10 +137,14 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/mycinemaeurope.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/mycinemafamily.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/images/BAM-Extreme-LOGO-B_RGB.png" group-title="Film",Rock Action
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/rockaction.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="Film",Star Movie
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/starmovie.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="Film",Thrill
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/thrill.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TvN%20Movies%20HD-FirstMedia-Chl-343.jpg" group-title="Film",TVN Movie
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvnmovies.m3u8
+#EXTINF:-1 group-title="Film",Zee Action
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/zeeaction.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/9-MOVIES/Zee%20Bioskop%20SD-FirstMedia-Chl-161.jpg" group-title="Film",Zee Bioskop
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/zeebioskop.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDmtJTdr/z.png" group-title="Film",Zee Cinema
@@ -369,6 +373,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/tv5mondeasie.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbsasia.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVBS%20News%20SD-FirstMedia-Chl-212.jpg" group-title="TV Internasional",TVBS News
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbsnews.m3u8
+#EXTINF:-1 group-title="TV Internasional",TVB Jade
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbjade.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVB%20Xing%20He%20SD-FirstMedia-Chl-201.jpg" group-title="TV Internasional",TVB Xing He
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbxinghe.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/TVRI%20SD-FirstMedia-Chl-16.jpg" group-title="TV Internasional",TVRI World
