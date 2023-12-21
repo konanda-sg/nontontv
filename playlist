@@ -609,6 +609,10 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="INTERNATIONAL TV",MBC
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="INTERNATIONAL TV", MBC 2
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=250040&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="INTERNATIONAL TV", MBC ACTION
+http://iptvomax.xyz/play/live.php?mac=00:1a:79:7a:bf:78&stream=250046&extension=ts&play_token=yK7Ppvy2jW
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iSI4kky.png" group-title="INTERNATIONAL TV",Dubai One
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1155,8 +1159,6 @@ https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",Music TV
 https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png",Music TV
-http://198.16.100.90:8278/MusicTV/playlist.m3u8?tid=MFEF2771586927715869&ct=19225&tsum=25aeb843227531bfab3d9fde062323b2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1201,9 +1203,6 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/6bf58983d255ceb95c15e53ba64237db.png",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="XITEROCK" tvg-name="XITEROCK" tvg-logo="" group-title="Music",XITE ROCK 
-https://i.mjh.nz/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
-
 #EXTINF:-1 tvg-id="XITE80sFLASHBLACK" tvg-name="XITE80sFLASHBLACK " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png" group-title="MUSIC",XITE 80s FLASHBLACK 
 https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="XITE80sTHROWBLACK" tvg-name="XITE80sTHROWBACK " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20231024T231632SQUARE.png_20231024231633.png" group-title="MUSIC",XITE 90s THROWBACK 
@@ -1218,11 +1217,6 @@ https://i.mjh.nz/SamsungTVPlus/USBD3300008DG.m3u8|user-agent=okhttp/4.10.0
 #EXTINF:-1 tvg-logo="https://www.indihometv.com/images/logo_mtvlive_small.png" group-title="MUSIC", MTV
 http://187.95.95.243/mtv/mono.m3u8 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV Global SD
-http://195.24.89.82/MTV_SD/index.m3u8
-#EXTINF:-1 tvg-logo="www.indihometv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV 00s SD
-http://195.24.89.82/VH1_SD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-DQ6tO5V5dK7q7YhUXGFM72BHEh7LiKiefQ&usqp=CAU" group-title="MUSIC" tvg-id="" tvg-name="", MTV 00s
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1230,17 +1224,18 @@ http://195.24.89.82/VH1_SD/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"a3d9d4bfa5185516b38e082478f027a3":"508b827a7c12a3c66c2707420a60f2a7","60d7c8bf82e65846b63fe754b6aab293":"070a935db9627a0cf39860ea58905b10","e3723805608f5fc2a443e98577fae7c3":"747e135724d11fc641248527ce70990b"}
 https://tvup-live.secure.footprint.net/vh1/vh1.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://static1.squarespace.com/static/5d07b0c8af0f1c0001204144/t/5d07b0f8c2c5b00001d89f93/1560785145428/social+sharing+logo.png?format=1500w",VEVO
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png", Vevo 00s
-https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/9f3e23c231f44bac97866bc8b70c0e4b/live.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="MUSIC",VEVO 90's
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="MUSIC",VEVO 80
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="MUSIC",Vevo Pop
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
+#EXTINF:-1 channel-id="samsung-USBB4400015F5" tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20230322T000025SQUARE.png_20230322000026.png" tvg-chno="1523" group-title="MUSIC" , Vevo 2K
+https://i.mjh.nz/SamsungTVPlus/USBB4400015F5.m3u8|user-agent=okhttp/4.10.0
+#EXTINF:-1 channel-id="samsung-USBD300012YC" tvg-id="USBD300012YC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20230322T000021SQUARE.png_20230322000021.png" tvg-chno="1521" group-title="MUSIC" , Vevo '80s
+https://i.mjh.nz/SamsungTVPlus/USBD300012YC.m3u8|user-agent=okhttp/4.10.0
+#EXTINF:-1 channel-id="samsung-USBD3000133M" tvg-id="USBD3000133M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20230322T000023SQUARE.png_20230322000024.png" tvg-chno="1522" group-title="MUSIC" , Vevo '90s
+https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8|user-agent=okhttp/4.10.0
+#EXTINF:-1 channel-id="samsung-USBD120002431" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20230627T215025SQUARE.png_20230627215025.png" tvg-chno="1524" group-title="MUSIC" , Vevo 2010s
+https://i.mjh.nz/SamsungTVPlus/USBD120002431.m3u8|user-agent=okhttp/4.10.0
+#EXTINF:-1 channel-id="samsung-USBD3000145P" tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20230809T005430SQUARE.png_20230809005431.png" tvg-chno="1525" group-title="MUSIC" , Vevo Retro Rock
+https://i.mjh.nz/SamsungTVPlus/USBD3000145P.m3u8|user-agent=okhttp/4.10.0
+#EXTINF:-1 channel-id="samsung-USBC3600008WY" tvg-id="USBC3600008WY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20231024T234728SQUARE.png_20231024234729.png" tvg-chno="1532" group-title="MUSIC" , Vevo Pop
+https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8|user-agent=okhttp/4.10.0
 #EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" tvg-chno="1537" group-title="MUSIC" , NEW KPOP
 https://i.mjh.nz/SamsungTVPlus/USAJ3000013FJ.m3u8|user-agent=okhttp/4.10.0
 
@@ -1473,7 +1468,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4
-https://mangga-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
@@ -3327,8 +3322,54 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch208%29/index
 
 =========================================== US-USA TV ===========================================
 
-
-
+#EXTINF:-1 tvg-id="actionmax.eastern.us" tvg-name="US005:ACTION MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US005ACTION-MAX.png" group-title="USA TV",US005:ACTION MAX
+http://95.214.235.96:8880/48mss030009/13621375/3163
+#EXTINF:-1 tvg-id="" tvg-name="US004:ABC 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US004ABC7.png" group-title="USA TV",US004:ABC 7
+http://95.214.235.96:8880/48mss030009/13621375/3164
+#EXTINF:-1 tvg-id="" tvg-name="US017:CBS-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS-HD.png" group-title="USA TV",US017:CBS-HD
+http://95.214.235.96:8880/48mss030009/13621375/3151
+#EXTINF:-1 tvg-id="starz.eastern.us" tvg-name="US019:STARZ EAST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US019StarzEast.png" group-title="USA TV",US019:STARZ EAST
+http://95.214.235.96:8880/48mss030009/13621375/3149
+#EXTINF:-1 tvg-id="e.entertainment.usa.eastern.us" tvg-name="US030:E! HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US030E!.png" group-title="USA TV",US030:E! HD
+http://95.214.235.96:8880/48mss030009/13621375/3138
+#EXTINF:-1 tvg-id="fxx.usa.eastern.us" tvg-name="US041:FX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US041FX-HD.png" group-title="USA TV",US041:FX HD
+http://95.214.235.96:8880/48mss030009/13621375/3127
+#EXTINF:-1 tvg-id="fxx.usa.eastern.us" tvg-name="US042:FXX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US042FXX.png" group-title="USA TV",US042:FXX HD
+http://95.214.235.96:8880/48mss030009/13621375/3126
+#EXTINF:-1 tvg-id="comedy.us" tvg-name="US045:HBO Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US045HBOComedyEast.png" group-title="USA TV",US045:HBO Comedy
+http://95.214.235.96:8880/48mss030009/13621375/3123
+#EXTINF:-1 tvg-id="hbo.eastern.us" tvg-name="US046:HBO East" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US046HBOEast.png" group-title="USA TV",US046:HBO East
+http://95.214.235.96:8880/48mss030009/13621375/3122
+#EXTINF:-1 tvg-id="hbo.signature.eastern.us" tvg-name="US047:HBO Signature" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US047HBOSignatureWest.png" group-title="USA TV",US047:HBO Signature
+http://95.214.235.96:8880/48mss030009/13621375/3121
+#EXTINF:-1 tvg-id="hbo.zone.east.us" tvg-name="US048:HBO Zone" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US048HBOZoneEast.png" group-title="USA TV",US048:HBO Zone
+http://95.214.235.96:8880/48mss030009/13621375/3120
+#EXTINF:-1 tvg-id="lifetime.movies.east.us" tvg-name="US054:Lifetime Movie" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US054LifetimeMovie.png" group-title="USA TV",US054:Lifetime Movie
+http://95.214.235.96:8880/48mss030009/13621375/3114
+#EXTINF:-1 tvg-id="hbo.2.eastern.us" tvg-name="US055:HBO 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US055HBO2.png" group-title="USA TV",US055:HBO 2
+http://95.214.235.96:8880/48mss030009/13621375/3113
+#EXTINF:-1 tvg-id="mtv.usa.eastern.us" tvg-name="US058:MTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US058MTV.png" group-title="USA TV",US058:MTV HD
+http://95.214.235.96:8880/48mss030009/13621375/3110
+#EXTINF:-1 tvg-id="showtime.west.us" tvg-name="US069:Showtime HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US069SHOWTIME.png" group-title="USA TV",US069:Showtime HD
+http://95.214.235.96:8880/48mss030009/13621375/3099
+#EXTINF:-1 tvg-id="showtime.2.eastern.us" tvg-name="US070:Showtime 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US070SHOWTIME2.png" group-title="USA TV",US070:Showtime 2 HD
+http://95.214.235.96:8880/48mss030009/13621375/3098
+#EXTINF:-1 tvg-id="syfy.eastern.us" tvg-name="US072:SyFy HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US072SYFY.png" group-title="USA TV",US072:SyFy HD
+http://95.214.235.96:8880/48mss030009/13621375/3096
+#EXTINF:-1 tvg-id="tbs.east.us" tvg-name="US073:TBS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US073TBS-HD.png" group-title="USA TV",US073:TBS HD
+http://95.214.235.96:8880/48mss030009/13621375/3095
+#EXTINF:-1 tvg-id="vh1.eastern.us" tvg-name="US081:VH1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US081VH1.png" group-title="USA TV",US081:VH1 HD
+http://95.214.235.96:8880/48mss030009/13621375/3087
+#EXTINF:-1 tvg-id="actionmax.pacific.us" tvg-name="US773:CineMax Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US773CineMaxActionHD.png" group-title="USA TV",US773:CineMax Action HD
+http://95.214.235.96:8880/48mss030009/13621375/64348
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US777:Cinemax Action Max HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US777CINEMAXACTIONMAXHD.png" group-title="USA TV",US777:Cinemax Action Max HD
+http://95.214.235.96:8880/48mss030009/13621375/64352
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US780:Cinemax West HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US780CINEMAXWestHD.png" group-title="USA TV",US780:Cinemax West HD
+http://95.214.235.96:8880/48mss030009/13621375/64355
+#EXTINF:-1 tvg-id="epix.pacfic.us" tvg-name="US805:EPIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US805EPIX.png" group-title="USA TV",US805:EPIX
+http://95.214.235.96:8880/48mss030009/13621375/59225
+#EXTINF:-1 tvg-id="epix2.east.us" tvg-name="US806:EPIX 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US806EPIX2.png" group-title="USA TV",US806:EPIX 2
+http://95.214.235.96:8880/48mss030009/13621375/59224
 
 
 =========================================== BeIN Sport ===========================================
