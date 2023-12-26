@@ -273,6 +273,10 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/sportstars3.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/12-SPORTS/SPOTV2%20SD-FirstMedia-Chl-140.jpg" group-title="Olah Raga",SPOTV 2
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/goTVVel.png" group-title="Olah Raga",True Premier Football 1
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/truepremfootball1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EodqrAZ.png" group-title="Olah Raga",True Premier Football 2
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/truepremfootball2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JGXzw5v.png" group-title="Olah Raga",True Sports 1
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l11xhF2.png" group-title="Olah Raga",True Sports 2
