@@ -273,6 +273,14 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/sportstars3.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/12-SPORTS/SPOTV2%20SD-FirstMedia-Chl-140.jpg" group-title="Olah Raga",SPOTV 2
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGXzw5v.png" group-title="Olah Raga",True Sports 1
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l11xhF2.png" group-title="Olah Raga",True Sports 2
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rsAqjtw.png" group-title="Olah Raga",True Sports 3
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bW79Nal.png" group-title="Olah Raga",True Sports 7
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/truesports7.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="Olah Raga",TVRI Sport
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvrisports.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b3c7f04ad2b1bdc88af962a4b2402136.png" group-title="Olah Raga",Usee Prime
