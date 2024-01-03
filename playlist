@@ -57,6 +57,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7 HD
+https://s.id/trans7HD_shareext-ts
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -597,6 +600,12 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch217%29/index
 #EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="",TVB Xinghe (F*)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch215%29/index.m3u8
 
+#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.ibb.co/yqmsPcx/3.png" group-title="INTERNATIONAL TV",TVB Jade
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="INTERNATIONAL TV" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
+https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
+
 #EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="",Sony Max (F*)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
 
@@ -862,12 +871,25 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemach
 
 ======================================================================================
 
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MOVIES",HBO ID
+https://s.id/hboHD_shareext-ts
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIES",HBO Hits ID
+https://s.id/hbohits_shareext-ts
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES",HBO Family ID
+https://s.id/hbofam_shareext-ts
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIES",HBO Signature ID
+https://s.id/hbosigHD_shareext-ts
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MOVIES",Cinemax ID
+https://s.id/cinemaxHD_shareext-ts
+
+======================================================================================
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MOVIES",HBO
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MOVIES",HBO (cbm)
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -876,7 +898,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 #KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIES",HBO Hits
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="MOVIES",HBO Hits (cbm)
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -885,7 +907,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES",HBO Family
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="MOVIES",HBO Family (cbm)
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -894,7 +916,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIES",HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="MOVIES",HBO Signature (cbm)
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -903,7 +925,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_type=https://cubmu.ceriatv.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MOVIES",Cinemax
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MOVIES",Cinemax (cbm)
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 ======================================================================================
@@ -1102,11 +1124,11 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png group-title="MOVIES",Flik
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png group-title="MOVIES",Flik (*)
+https://s.id/flikHD_shareext-ts
 http://iptvtree.net:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/165095
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="" tvg-url="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BOO_v1.png",BOO
-http://193.34.212.37:2095/live/yysspartyplayttyy/34gsj8945sd/26011.ts?token=GEFeAEAMEQ5EBQ1WUwAEAwRVBAZdVQADAAUEBVBXVAIFWg4AUVZVB1YRFUcSTBRRUgg6WwEVC1MBAAEDTRQXEAYRaQhXRgkWUQYNUlUaShZHDAhXRw0AVgcDAQZRA1VVT0FGCFdGCRZUBwxVUxpKFlYdEVcXWVANaFRVRAhVB0FZDUMNX0gRWwhsXQAMWQhQEV9HAkcbEwhEQBIID0MOD09BVAhHFlJAAxEDR1AOUwERSUdRCkJfFUVJEghDYzFBT0FTGUcBXUcPXFdHWxoSRxFJR1sWaEMERERCVwBbBxFBWRRREUgRWQdLZgYOVghRUBEMXQtEE1sVAgUCQxpADgwNXxVcFmxED1cbX0MJUQEDUEdP
-http://193.34.212.37:2095/live/kfc1512/451364868/26011.ts?token=GEFeAEAMEQ5EAw1RBwECB1ZdVFdVBlQED1FUUwcBAwEGUQFZAlMLBVERFUcSTBRRUgg6WwEVC1MBAAEDTRQXEAYRaQhXRgkWUAoOUlgaShZHDAhXRw0AVgcDAQZRAFdUT0FGCFdGCRZUBwxVUxpKFlYdEVcXWVANaFRVRAhVB0FZDUMNX0gRWwhsXQAMWQhQEV9HAkcbEwhEQBIID0MOD09BVAhHFlJAAxEDR1AOVw0RSUdRCkJfFUVJEghDYzFBT0FTGUcBXUcPXFdHWxoSRxFJR1sWaEMERERCVwBbBxFBWRRREUgRWQdLZgYOVghRUBEMXQtEE1sVARIeQ1sNDQoXWRNsFFpQRAkbVFYNVgERGA==
+http://toh-users.xyz:8080/42204120/16250164/798445
 
 #EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://i.postimg.cc/mDCCS0Rh/20230520-093534.jpg" group-title="MOVIES",Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
@@ -1436,9 +1458,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0WpTLzr/usee.jpg" group-title="SPORTS", Usee Sport 1
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d724a7d5-0773-43a6-bf5b-06da1883d520)/manifest.mpd
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298577
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjgGfXzD/usee-2.jpg" group-title="SPORTS", Usee Sport 2
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0002f5b4-bcc0-4b51-93c8-0de407cf7e19)/manifest.mpd
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298578
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",Premier Sport (F*)
@@ -4981,6 +5005,219 @@ https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8|user-agent=okhttp/4.10.0
 https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8|user-agent=okhttp/4.10.0
 
 
+======================================================================================
+
+#EXTINF:-1 group-title="CVMTV" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv1.png",VTV1 HD
+http://free.cvmtv.site/VTV1HD?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="vtv3hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv3.png",VTV3 HD
+http://free.cvmtv.site/VTV3HD?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD
+http://free.cvmtv.site/vtv5?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="vtvcab1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/viegt.png",Vie Giải Trí
+http://free.cvmtv.site/vie?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="vtc1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png",VTC1
+http://free.cvmtv.site/vtc1?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="htv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/800px-HTV1.png",HTV1
+http://free.cvmtv.site/htv1?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="htv4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/HTV_Key_logo_2018_-_nay.png/1200px-HTV_Key_logo_2018_-_nay.png",HTV Key
+http://free.cvmtv.site/htv4?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="htv7hd" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png",HTV7
+http://free.cvmtv.site/htv7?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="htv9hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/HTV9Logomoi.png",HTV9
+http://free.cvmtv.site/htv9?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="htvthethaohd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/htvtt.png",HTV Thể thao
+http://free.cvmtv.site/htvtt?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="vinhlong1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_THVL1_HD.png",THVL1
+http://free.cvmtv.site/thvl1?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="vinhlong2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_THVL2_HD.png",THVL2
+http://free.cvmtv.site/thvl1?token=live
+
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/bv1.png",BallViet 1
+http://free.cvmtv.site/BV1?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/bv2.png",BallViet 2
+http://free.cvmtv.site/BV2?token=live
+
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",M+LC
+http://free.cvmtv.site/MLC?token=live
+
+#EXTINF:-1 group-title="CVMTV" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
+http://free.cvmtv.site/canal1?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="canalsp2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
+http://free.cvmtv.site/canal2?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="canalsp5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/CANAL%2B_Sport_5.png",Canal+ Sport 5
+http://free.cvmtv.site/canal5?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="canalpre" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
+http://free.cvmtv.site/canalpre?token=live
+
+#EXTINF:-1 group-title="CVMTV" tvg-id="eleven1" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
+http://free.cvmtv.site/E1?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="eleven2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
+http://free.cvmtv.site/E2?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="eleven3" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391299.png",Eleven Sports 3
+http://free.cvmtv.site/E3?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="eleven4" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports 4
+http://free.cvmtv.site/E4?token=live
+
+#EXTINF:-1 group-title="CVMTV" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
+http://free.cvmtv.site/Match?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="mf1" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/8.jpg",Match Futbol 1
+http://free.cvmtv.site/MF1?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="mf2" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/14.jpg",Match Futbol 2
+http://free.cvmtv.site/MF2?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="mf3" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
+http://free.cvmtv.site/MF3?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="matchpre" tvg-logo="https://new.matchtv.ru/assets/202308281003/images/channels/7.jpg",Match Premier
+http://free.cvmtv.site/MPre?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="matcharena" tvg-logo="https://new.matchtv.ru/assets/202311271424/images/channels/137.jpg",Match Arena
+http://free.cvmtv.site/MA?token=live
+
+#EXTINF:-1 group-title="CVMTV" tvg-id="polsatsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
+http://free.cvmtv.site/Polsat?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="polsatspex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
+http://free.cvmtv.site/PolsatE?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
+http://free.cvmtv.site/PolsatN?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="tvpsport" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tvpsport.png",TVP Sport
+http://free.cvmtv.site/TVPS?token=live
+
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
+http://free.cvmtv.site/FS1?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
+http://free.cvmtv.site/FS2?token=live
+
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaplayXtra
+http://free.cvmtv.site/ViaXtra?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
+http://free.cvmtv.site/BBC1?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
+http://free.cvmtv.site/BBC2?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/1920px-ITV1_logo_%282022%29.svg.png",ITV1
+http://free.cvmtv.site/ITV?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png",Channel 4
+http://free.cvmtv.site/Channel4?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/ITV2_logo_2022.svg/1920px-ITV2_logo_2022.svg.png",ITV2
+http://free.cvmtv.site/ITV2?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/ITV3_logo_2022.svg/1200px-ITV3_logo_2022.svg.png",ITV3
+http://free.cvmtv.site/ITV3?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/1920px-ITV4_logo_%282022%29.svg.png",ITV4
+http://free.cvmtv.site/ITV4?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CBBC_%282023%29.svg/1920px-CBBC_%282023%29.svg.png",CBBC
+http://free.cvmtv.site/CBBC?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1200px-S4C_logo_2014.svg.png",S4C
+http://free.cvmtv.site/S4C?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/2560px-BBC_Red_Button_2021.svg.png",BBC RB 1
+http://free.cvmtv.site/BBC_RB?token=live
+
+#EXTINF:-1 group-title="CVMTV" tvg-id="10hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 HD
+http://free.cvmtv.site/10HD?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="10bold" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/10_Bold_2018.svg/1200px-10_Bold_2018.svg.png",10 Bold
+http://free.cvmtv.site/10B?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="7hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7HD
+http://free.cvmtv.site/7HD?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="9hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Nine_Network_logo_%282008%29.svg/1000px-Nine_Network_logo_%282008%29.svg.png",9HD
+http://free.cvmtv.site/9HD?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="9gem" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem
+http://free.cvmtv.site/9G?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="sbsone" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/ABC_TV_logo_2021.svg/200px-ABC_TV_logo_2021.svg.png",ABCTV
+http://free.cvmtv.site/ABCA?token=live
+
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC
+http://free.cvmtv.site/NBC?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS
+http://free.cvmtv.site/CBS?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC
+http://free.cvmtv.site/ABC?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX
+http://free.cvmtv.site/FOX?token=live
+
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png",Das Erste
+http://free.cvmtv.site/DasErste?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/2560px-ZDF_HD_Logo.svg.png",ZDF
+http://free.cvmtv.site/ZDF?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/1280px-RTL_Logo_2021.svg.png",RTL
+http://free.cvmtv.site/RTL?token=live
+
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png",TF1
+http://free.cvmtv.site/TF1?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/1024px-France_2_2018.svg.png",France 2
+http://free.cvmtv.site/Fr2?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/1200px-France_3_2018.svg.png",France 3
+http://free.cvmtv.site/Fr3?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/1200px-France_4_2018.svg.png",France 4
+http://free.cvmtv.site/Fr4?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png",France 5
+http://free.cvmtv.site/Fr5?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png",M6
+http://free.cvmtv.site/Fr6?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/1200px-W9_2018.svg.png",W9
+http://free.cvmtv.site/W9?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Franceinfo.svg/1280px-Franceinfo.svg.png",franceinfo
+http://free.cvmtv.site/FI?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1920px-Canal_News_logo.svg.png",C News
+http://free.cvmtv.site/CNews?token=live
+
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-1_180817.png",CCTV-1
+http://free.cvmtv.site/CCTV1?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-3_180817.png",CCTV-3
+http://free.cvmtv.site/CCTV3?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV-13
+http://free.cvmtv.site/CCTV13?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png",CCTV-5
+http://free.cvmtv.site/CCTV5?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv5plus_20180904.png",CCTV-5+
+http://free.cvmtv.site/CCTV5p?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv16_20180904.png",CCTV-16
+http://free.cvmtv.site/CCTV16?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/380ad685c0c1d5b2c902246b8d2df6d3f9b45e2837abcfe493075bbded597a31.png",Giang Tô TV
+http://free.cvmtv.site/JSTV?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/4120e89d3079d08aa17d382f69a2308ec70839b278367763c34a34666c75cb88.png",Hồ Nam TV
+http://free.cvmtv.site/hunan?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/a66c836bd98ba3e41a2e9a570d4b9c50dedc6839e9de333e2e78212ad505f37e.png",Chiết Giang TV
+http://free.cvmtv.site/ZJTV?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1920px-ViuTV_logo.svg.png",ViuTV
+http://free.cvmtv.site/Viu?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png",ViuTVsix
+http://free.cvmtv.site/Viu6?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",TVB Jade
+http://free.cvmtv.site/Jade?token=live
+
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png",KBS1
+http://free.cvmtv.site/KBS1?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png",KBS2
+http://free.cvmtv.site/KBS2?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png",MBC
+http://free.cvmtv.site/MBC?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1200px-SBS_Korea_Logo_%28Word_Only%29.svg.png",SBS
+http://free.cvmtv.site/SBS?token=live
+
+#EXTINF:-1 group-title="CVMTV" tvg-id="opt1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/1000px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png",OPT1
+http://free.cvmtv.site/OPT1?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="rus1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/1000px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Russia 1
+http://free.cvmtv.site/R1?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-id="rus24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/1024px-Rossiya-24_Logo.svg.png",Russia 24
+http://free.cvmtv.site/R24?token=live
+
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",CH3
+http://free.cvmtv.site/CH3?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1200px-Thairath_TV_Logo.svg.png",Thairath TV
+http://free.cvmtv.site/T32?token=live
+
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Al Jazeera English
+http://free.cvmtv.site/AlJa?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
+http://free.cvmtv.site/BBCN?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",CNN
+http://free.cvmtv.site/CNN?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a2/FRANCE_24.png/revision/latest?cb=20211127035535&path-prefix=vi",France 24 English
+http://free.cvmtv.site/F24?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
+http://free.cvmtv.site/SkyN?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/2560px-New_Bloomberg_Logo.svg.png",Bloomberg
+http://free.cvmtv.site/BB?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",CNBC
+http://free.cvmtv.site/CNBC?token=live
+#EXTINF:-1 group-title="CVMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Phoenix Infonews
+http://free.cvmtv.site/PhxInfo?token=live
 
 ======================================================================================
 
