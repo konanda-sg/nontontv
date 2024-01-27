@@ -3303,6 +3303,37 @@ https://edge.taghtia.com/sa/16.m3u8
 #EXTINF:-1 tvg-id="KSASports4.sa" tvg-logo="https://i.imgur.com/TNZEKP6.png" group-title="KSA SPORTS",KSA Sports 4 HD
 https://edge.taghtia.com/sa/17.m3u8
 
+
+=========================================== SUPER SPORTS ===========================================
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="Super Sports",SuperSport Action
+http://iptvtree.net:8080/F14995/a84c0963/194354
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Blitz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/0a52ab66352a2b8d466ccdb407570cad.jpg" group-title="Super Sports",SuperSport Blitz
+http://iptvtree.net:8080/F14995/a84c0963/281536
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="Super Sports",SuperSport Cricket
+http://iptvtree.net:8080/F14995/a84c0963/11637
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="Super Sports",SuperSport Golf
+http://iptvtree.net:8080/F14995/a84c0963/11641
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Grandstand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="Super Sports",SuperSport Grandstand
+http://iptvtree.net:8080/F14995/a84c0963/194353
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="Super Sports",SuperSport LaLiga
+http://iptvtree.net:8080/F14995/a84c0963/194358
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Motorsport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="Super Sports",SuperSport Motorsport
+http://iptvtree.net:8080/F14995/a84c0963/11638
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Rugby" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/55a7ac3c8cdd7718d94d29b8ebc99f2e.png" group-title="Super Sports",SuperSport Rugby
+http://iptvtree.net:8080/F14995/a84c0963/11639
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="Super Sports",SuperSport Tennis
+http://iptvtree.net:8080/F14995/a84c0963/15200
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5440da812326351c34541cb82f6aac9e.png" group-title="Super Sports",SuperSport Variety 1
+http://iptvtree.net:8080/F14995/a84c0963/11633
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="Super Sports",SuperSport Variety 2
+http://iptvtree.net:8080/F14995/a84c0963/11634
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/712a4054a884ffbeb3cac1bd3d4700da.png" group-title="Super Sports",SuperSport Variety 3
+http://iptvtree.net:8080/F14995/a84c0963/11635
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7816729fca81dcee05b869f633b8a84d.png" group-title="Super Sports",SuperSport Variety 4
+http://iptvtree.net:8080/F14995/a84c0963/11636
+
+
 ======================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony PIX
