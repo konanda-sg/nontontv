@@ -649,6 +649,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",ANIMAX (Sg)
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
+#EXTINF:-1 group-title="MOVIES" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Test)
+http://jp.vthanhnetwork.com/AT-X/index.m3u8
+
 #EXTINF:-1 tvg-id="Aniplus" group-title="MOVIES" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", ANIPLUS(Indi)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
@@ -972,6 +975,9 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FSiqLLSWQAIxK78?format=png&name=240x240" group-title="MUSIC",K Pop
 https://marine2.miplay.cl/kpop/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC",Dance Kpop X
+http://www.biaozhun114.com/dl/dl888/histar.php?ssydx
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/887f87f5db4607fe06a5c084439cbf8c.jpg" group-title="MUSIC",Persiana Korea
 http://51.210.199.14/hls/stream.m3u8
@@ -1521,9 +1527,7 @@ http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71107
 https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 #EXTINF:-1 tvg-name="TVRI SPORT" tvg-logo="https://i.ibb.co/42dwcpw/Tvri-sport-hometv.jpg" group-title="SPORTS ID",TVRI SPORT
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-https://epg.pw/stream/1e0fcfc4f18549722a9231c62a97daeb28dc0347372af159f9aa06cf1cbdee64.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8
 
 
 =========================================== INTERNATIONAL TV ===========================================
@@ -2683,6 +2687,45 @@ https://unifi-live08.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1672512690/6781.png" group-title="SPORTS", Viaplay Xtra
 https://i.mjh.nz/SamsungTVPlus/GBBB4300001NX.m3u8
 
+#EXTINF:-1 group-title="SPORTS",NBA
+http://www.biaozhun114.com/dl/dl888/histar.php?nba
+#EXTINF:-1 group-title="SPORTS",Videoland-Sport
+http://www.biaozhun114.com/dl/dl888/histar.php?videoland-sport
+#EXTINF:-1 group-title="SPORTS",ELEVEN-1
+http://www.biaozhun114.com/dl/dl888/histar.php?eleven-sport1
+#EXTINF:-1 group-title="SPORTS",ELEVEN-2
+http://www.biaozhun114.com/dl/dl888/histar.php?eleven-sport2
+#EXTINF:-1 group-title="SPORTS",Sportcast-1
+http://www.biaozhun114.com/dl/dl888/histar.php?sportcast1
+#EXTINF:-1 group-title="SPORTS",Sportcast-2
+http://www.biaozhun114.com/dl/dl888/histar.php?sportcast2
+#EXTINF:-1 group-title="SPORTS",Sportcast Golf-1
+http://www.biaozhun114.com/dl/dl888/histar.php?sportcast-golf1
+#EXTINF:-1 group-title="SPORTS",Sportcast Golf-2
+http://www.biaozhun114.com/dl/dl888/histar.php?sportcast-golf2
+#EXTINF:-1 group-title="SPORTS",Sportcast Tennis
+http://www.biaozhun114.com/dl/dl888/histar.php?sportcast-tennis
+#EXTINF:-1 group-title="SPORTS",Sportcast WX
+http://www.biaozhun114.com/dl/dl888/histar.php?sportcast-wx
+#EXTINF:-1 group-title="SPORTS",ELTA Sport-1
+http://www.biaozhun114.com/dl/dl888/histar.php?elta-sport1
+#EXTINF:-1 group-title="SPORTS",ELTA Sport-2
+http://www.biaozhun114.com/dl/dl888/histar.php?elta-sport2
+#EXTINF:-1 group-title="SPORTS",TRACE Sport Stars
+http://www.biaozhun114.com/dl/dl888/histar.php?trace-sport-stars
+#EXTINF:-1 group-title="SPORTS",myTV SUPER Soccer1
+http://www.biaozhun114.com/dl/dl888/histar.php?mytv-super-soccer1
+#EXTINF:-1 group-title="SPORTS",myTV SUPER Soccer2
+http://www.biaozhun114.com/dl/dl888/histar.php?mytv-super-soccer2
+#EXTINF:-1 group-title="SPORTS",myTV SUPER Soccer3
+http://www.biaozhun114.com/dl/dl888/histar.php?mytv-super-soccer3
+#EXTINF:-1 group-title="SPORTS",myTV SUPER Soccer4
+http://www.biaozhun114.com/dl/dl888/histar.php?mytv-super-soccer4
+#EXTINF:-1 group-title="SPORTS",GINX Esports TV
+http://www.biaozhun114.com/dl/dl888/histar.php?ginx-esports
+#EXTINF:-1 group-title="SPORTS",Zl Sports
+http://www.biaozhun114.com/dl/dl888/histar.php?zl-sports
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -3049,6 +3092,23 @@ https://ssc-4-on-prem-ak.akamaized.net/out/v1/3e442c7dad1b44b6a0914aa26b62a892/i
 #KODIPROP:inputstream.adaptive.license_key=150150f30a8140a2bfda5d1b3fbb2d4b:dad19250368b129f003817b778d65dae
 https://ssc-5-on-prem-cw-ak.akamaized.net/out/v1/ee54cd9a3f844ceb8249f430733f9c00/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 1 HD" tvg-logo="https://lo1.in/ars/ssc.png" group-title="SSC SPORTS",AR-SP| KSA SSC 1 HD
+http://startv365.com:80/D85A79B4/55A7743D/400551970
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 2 HD" tvg-logo="https://lo1.in/ars/ssc.png" group-title="SSC SPORTS",AR-SP| KSA SSC 2 HD
+http://startv365.com:80/D85A79B4/55A7743D/400551969
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 3 HD" tvg-logo="https://lo1.in/ars/ssc.png" group-title="SSC SPORTS",AR-SP| KSA SSC 3 HD
+http://startv365.com:80/D85A79B4/55A7743D/400551968
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 4 HD" tvg-logo="https://lo1.in/ars/ssc.png" group-title="SSC SPORTS",AR-SP| KSA SSC 4 HD
+http://startv365.com:80/D85A79B4/55A7743D/400551967
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC 5 HD" tvg-logo="https://lo1.in/ars/ssc.png" group-title="SSC SPORTS",AR-SP| KSA SSC 5 HD
+http://startv365.com:80/D85A79B4/55A7743D/400551966
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC EXTRA 1 HD" tvg-logo="https://lo1.in/ars/ssc.png" group-title="SSC SPORTS",AR-SP| KSA SSC EXTRA 1 HD
+http://startv365.com:80/D85A79B4/55A7743D/400551965
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC EXTRA 2 HD" tvg-logo="https://lo1.in/ars/ssc.png" group-title="SSC SPORTS",AR-SP| KSA SSC EXTRA 2 HD
+http://startv365.com:80/D85A79B4/55A7743D/400551964
+#EXTINF:-1 tvg-id="" tvg-name="AR-SP| KSA SSC EXTRA 3 HD" tvg-logo="https://lo1.in/ars/ssc.png" group-title="SSC SPORTS",AR-SP| KSA SSC EXTRA 3 HD
+http://startv365.com:80/D85A79B4/55A7743D/400551963
+
 
 =========================================== ORANGE SPORTS ===========================================
 
@@ -3079,6 +3139,15 @@ https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&e
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"zdOZhpBXvDTIJ/JX9WJkOg", "kid":"ICqSfNkTEB3nZbDluz9QDw"}], "type":"temporary"}
 https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="telekomsport1.ro" tvg-name="RO| ORANGE SPORT 1 HD" tvg-logo="https://lo1.in/rom/telkmsp1.png" group-title="ORANGE SPORTS",RO| ORANGE SPORT 1 HD
+http://startv365.com:80/D85A79B4/55A7743D/17305
+#EXTINF:-1 tvg-id="telekomsport2.ro" tvg-name="RO| ORANGE SPORT 2 HD" tvg-logo="https://lo1.in/rom/telkmsp2.png" group-title="ORANGE SPORTS",RO| ORANGE SPORT 2 HD
+http://startv365.com:80/D85A79B4/55A7743D/17304
+#EXTINF:-1 tvg-id="telekomsport3.ro" tvg-name="RO| ORANGE SPORT 3 HD" tvg-logo="https://lo1.in/rom/telkmsp3.png" group-title="ORANGE SPORTS",RO| ORANGE SPORT 3 HD
+http://startv365.com:80/D85A79B4/55A7743D/17303
+#EXTINF:-1 tvg-id="telekomsport4.ro" tvg-name="RO| ORANGE SPORT 4 HD" tvg-logo="https://lo1.in/rom/telkmsp4.png" group-title="ORANGE SPORTS",RO| ORANGE SPORT 4 HD
+http://startv365.com:80/D85A79B4/55A7743D/17302
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
@@ -3282,6 +3351,17 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 =========================================== ASTRO SPORTS ===========================================
 
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro SuperSports1HD
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports1
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro SuperSports2HD
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports2
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro SuperSports3HD
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports3
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro SuperSports4HD
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports4
+#EXTINF:-1 group-title="ASTRO SPORTS",Astro SuperSports
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports5
+
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ASTRO SPORTS",Astro SuperSport
 http://livein1.com:80/play/live.php?mac=00:1a:79:b1:85:5e&extension=ts&stream=186387
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ASTRO SPORTS",Astro SuperSport 2
@@ -3344,10 +3424,6 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTGRP:MOVIES
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=282631&extension=ts&play_token=8elHzUlVi6
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png",Star Movies HD (Laotv)
-#EXTGRP:MOVIES
-https://ctrl.laotv.la/live/StarMovie/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png", Star Movies HD (TataTv)
 #EXTGRP:MOVIES
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116488&extension=ts&play_token=1PvUcweHaG
@@ -3378,14 +3454,6 @@ https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1  tvg-logo="" group-title="MOVIES",Rakuten Action
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",Starz
-https://epg.pw/stream/87c5a35ac7d4944f9b05613ac7bc506dee139074e383803317d8d5336004abef.ctv
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",Starz West
-https://epg.pw/stream/62c646036c40103d4e1e9c0ed5d4645fd41236df50179daf8a34c0449ef2d0e8.ctv
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",Starz Encore
-https://epg.pw/stream/0a19312a47d49183d8c61002c671547968ecd697fffa81960ebeb2891692bd7f.ctv
-#EXTINF:-1  tvg-logo="" group-title="MOVIES",STARZ CINEMA
-https://epg.pw/stream/3361be0b051baa41078c1b869c3c1e63c981349acbb029cb8d38985c7e8cf816.ctv
 
 
 =========================================== INDONESIA ===========================================
@@ -3728,6 +3796,672 @@ http://iptvtree.net:8080/F14995/a84c0963/157584
 http://iptvtree.net:8080/F14995/a84c0963/264751
 
 
+=========================================== HISTAR ===========================================
+
+#EXTINF:-1 group-title="HISTAR IPTV",CCTV HD
+http://www.biaozhun114.com/dl/dl888/histar.php?ctv-hd
+#EXTINF:-1 group-title="HISTAR IPTV",Cts
+http://www.biaozhun114.com/dl/dl888/histar.php?cts
+#EXTINF:-1 group-title="HISTAR IPTV",TTV
+http://www.biaozhun114.com/dl/dl888/histar.php?ttv
+#EXTINF:-1 group-title="HISTAR IPTV",PTS
+http://www.biaozhun114.com/dl/dl888/histar.php?pts
+#EXTINF:-1 group-title="HISTAR IPTV",PTS3
+http://www.biaozhun114.com/dl/dl888/histar.php?pts3
+#EXTINF:-1 group-title="HISTAR IPTV",ctv-news
+http://www.biaozhun114.com/dl/dl888/histar.php?ctv-news
+#EXTINF:-1 group-title="HISTAR IPTV",cti-news
+http://www.biaozhun114.com/dl/dl888/histar.php?cti-news
+#EXTINF:-1 group-title="HISTAR IPTV",ctitv36
+http://www.biaozhun114.com/dl/dl888/histar.php?ctitv36
+#EXTINF:-1 group-title="HISTAR IPTV",cti-asia
+http://www.biaozhun114.com/dl/dl888/histar.php?cti-asia
+#EXTINF:-1 group-title="HISTAR IPTV",TVBS NEWS
+http://www.biaozhun114.com/dl/dl888/histar.php?tvbs-news
+#EXTINF:-1 group-title="HISTAR IPTV",TVBSHD
+http://www.biaozhun114.com/dl/dl888/histar.php?tvbs-hd
+#EXTINF:-1 group-title="HISTAR IPTV",TVBS Huanle
+http://www.biaozhun114.com/dl/dl888/histar.php?tvbs-huanle
+#EXTINF:-1 group-title="HISTAR IPTV",ttv-news
+http://www.biaozhun114.com/dl/dl888/histar.php?ttv-news
+#EXTINF:-1 group-title="HISTAR IPTV",global-news
+http://www.biaozhun114.com/dl/dl888/histar.php?global-news
+#EXTINF:-1 group-title="HISTAR IPTV",cts-news
+http://www.biaozhun114.com/dl/dl888/histar.php?cts-news
+#EXTINF:-1 group-title="HISTAR IPTV",mnews
+http://www.biaozhun114.com/dl/dl888/histar.php?mnews
+#EXTINF:-1 group-title="HISTAR IPTV",nexttv HD
+http://www.biaozhun114.com/dl/dl888/histar.php?nexttv
+#EXTINF:-1 group-title="HISTAR IPTV",jtzx
+http://www.biaozhun114.com/dl/dl888/histar.php?jtzx
+#EXTINF:-1 group-title="HISTAR IPTV",ebc-finance
+http://www.biaozhun114.com/dl/dl888/histar.php?ebc-finance
+#EXTINF:-1 group-title="HISTAR IPTV",era-news
+http://www.biaozhun114.com/dl/dl888/histar.php?era-news
+#EXTINF:-1 group-title="HISTAR IPTV",ustv-news
+http://www.biaozhun114.com/dl/dl888/histar.php?ustv-news
+#EXTINF:-1 group-title="HISTAR IPTV",ebc-news
+http://www.biaozhun114.com/dl/dl888/histar.php?ebc-news
+#EXTINF:-1 group-title="HISTAR IPTV",ebc-supertv HD
+http://www.biaozhun114.com/dl/dl888/histar.php?ebc-supertv
+#EXTINF:-1 group-title="HISTAR IPTV",jtgj
+http://www.biaozhun114.com/dl/dl888/histar.php?jtgj
+#EXTINF:-1 group-title="HISTAR IPTV",TVBSAsia
+http://www.biaozhun114.com/dl/dl888/histar.php?tvbs-asia
+#EXTINF:-1 group-title="HISTAR IPTV",gtv28
+http://www.biaozhun114.com/dl/dl888/histar.php?gtv28
+#EXTINF:-1 group-title="HISTAR IPTV",hakkatv
+http://www.biaozhun114.com/dl/dl888/histar.php?hakkatv
+#EXTINF:-1 group-title="HISTAR IPTV",ebc-ettv
+http://www.biaozhun114.com/dl/dl888/histar.php?ebc-ettv
+#EXTINF:-1 group-title="HISTAR IPTV",videoland-japan
+http://www.biaozhun114.com/dl/dl888/histar.php?videoland-japan
+#EXTINF:-1 group-title="HISTAR IPTV",videoland
+http://www.biaozhun114.com/dl/dl888/histar.php?videoland
+#EXTINF:-1 group-title="HISTAR IPTV",gtv27
+http://www.biaozhun114.com/dl/dl888/histar.php?gtv27
+#EXTINF:-1 group-title="HISTAR IPTV",elta-tv
+http://www.biaozhun114.com/dl/dl888/histar.php?elta-tv
+#EXTINF:-1 group-title="HISTAR IPTV",ctitv39
+http://www.biaozhun114.com/dl/dl888/histar.php?ctitv39
+#EXTINF:-1 group-title="HISTAR IPTV",gtv86
+http://www.biaozhun114.com/dl/dl888/histar.php?gtv86
+#EXTINF:-1 group-title="HISTAR IPTV",ebc-movie
+http://www.biaozhun114.com/dl/dl888/histar.php?ebc-movie
+#EXTINF:-1 group-title="HISTAR IPTV",ebc-drama
+http://www.biaozhun114.com/dl/dl888/histar.php?ebc-drama
+#EXTINF:-1 group-title="HISTAR IPTV",东森洋片
+http://www.biaozhun114.com/dl/dl888/histar.php?ebc-emovie
+#EXTINF:-1 group-title="HISTAR IPTV",star-chinese-channel
+http://www.biaozhun114.com/dl/dl888/histar.php?star-chinese-channel
+#EXTINF:-1 group-title="HISTAR IPTV",star-chinese-movies
+http://www.biaozhun114.com/dl/dl888/histar.php?star-chinese-movies
+#EXTINF:-1 group-title="HISTAR IPTV",lstime
+http://www.biaozhun114.com/dl/dl888/histar.php?lstime
+#EXTINF:-1 group-title="HISTAR IPTV",hollywood-tw
+http://www.biaozhun114.com/dl/dl888/histar.php?hollywood-tw
+#EXTINF:-1 group-title="HISTAR IPTV",gtv41
+http://www.biaozhun114.com/dl/dl888/histar.php?gtv41
+#EXTINF:-1 group-title="HISTAR IPTV",videoland-drama
+http://www.biaozhun114.com/dl/dl888/histar.php?videoland-drama
+#EXTINF:-1 group-title="HISTAR IPTV",videoland-movie
+http://www.biaozhun114.com/dl/dl888/histar.php?videoland-movie
+#EXTINF:-1 group-title="HISTAR IPTV",ltv-movies
+http://www.biaozhun114.com/dl/dl888/histar.php?ltv-movies
+#EXTINF:-1 group-title="HISTAR IPTV",ltv-movies
+http://www.biaozhun114.com/dl/dl888/histar.php?ltv-movies
+#EXTINF:-1 group-title="HISTAR IPTV",jtdy
+http://www.biaozhun114.com/dl/dl888/histar.php?jtdy
+#EXTINF:-1 group-title="HISTAR IPTV",meiah-movies
+http://www.biaozhun114.com/dl/dl888/histar.php?meiah-movies
+#EXTINF:-1 group-title="HISTAR IPTV",elta-drama
+http://www.biaozhun114.com/dl/dl888/histar.php?elta-drama
+#EXTINF:-1 group-title="HISTAR IPTV",eye-drama
+http://www.biaozhun114.com/dl/dl888/histar.php?eye-drama
+#EXTINF:-1 group-title="HISTAR IPTV",star-movies
+http://www.biaozhun114.com/dl/dl888/histar.php?star-movies
+#EXTINF:-1 group-title="HISTAR IPTV",star-entetainment
+http://www.biaozhun114.com/dl/dl888/histar.php?star-entetainment
+#EXTINF:-1 group-title="HISTAR IPTV",MTVLiveHD
+http://www.biaozhun114.com/dl/dl888/histar.php?mtv
+#EXTINF:-1 group-title="HISTAR IPTV",gold-sun-tv
+http://www.biaozhun114.com/dl/dl888/histar.php?gold-sun-tv
+#EXTINF:-1 group-title="HISTAR IPTV",ftv
+http://www.biaozhun114.com/dl/dl888/histar.php?ftv
+#EXTINF:-1 group-title="HISTAR IPTV",ftv-tw
+http://www.biaozhun114.com/dl/dl888/histar.php?ftv-tw
+#EXTINF:-1 group-title="HISTAR IPTV",settv-zonghe
+http://www.biaozhun114.com/dl/dl888/histar.php?settv-zonghe
+#EXTINF:-1 group-title="HISTAR IPTV",settv-taiwan
+http://www.biaozhun114.com/dl/dl888/histar.php?settv-taiwan
+#EXTINF:-1 group-title="HISTAR IPTV",zglgtx
+http://www.biaozhun114.com/dl/dl888/histar.php?zglgtx
+#EXTINF:-1 group-title="HISTAR IPTV",ctitv36
+http://www.biaozhun114.com/dl/dl888/histar.php?ctitv36
+#EXTINF:-1 group-title="HISTAR IPTV",cti-asia
+http://www.biaozhun114.com/dl/dl888/histar.php?cti-asia
+#EXTINF:-1 group-title="HISTAR IPTV",videoland
+http://www.biaozhun114.com/dl/dl888/histar.php?videoland
+#EXTINF:-1 group-title="HISTAR IPTV",gtv28
+http://www.biaozhun114.com/dl/dl888/histar.php?gtv28
+#EXTINF:-1 group-title="HISTAR IPTV",gtv27
+http://www.biaozhun114.com/dl/dl888/histar.php?gtv27
+#EXTINF:-1 group-title="HISTAR IPTV",elta-zonghe
+http://www.biaozhun114.com/dl/dl888/histar.php?elta-zonghe
+#EXTINF:-1 group-title="HISTAR IPTV",ARIRANG
+http://www.biaozhun114.com/dl/dl888/histar.php?arirang
+#EXTINF:-1 group-title="HISTAR IPTV",TVBS JC
+http://www.biaozhun114.com/dl/dl888/histar.php?tvbs-jc
+#EXTINF:-1 group-title="HISTAR IPTV",LiveABC 
+http://www.biaozhun114.com/dl/dl888/histar.php?liveabc
+#EXTINF:-1 group-title="HISTAR IPTV",KLT
+http://www.biaozhun114.com/dl/dl888/histar.php?jtgj
+#EXTINF:-1 group-title="HISTAR IPTV",KMTV
+http://www.biaozhun114.com/dl/dl888/histar.php?kmtv
+#EXTINF:-1 group-title="HISTAR IPTV",goodtv
+http://www.biaozhun114.com/dl/dl888/histar.php?goodtv
+#EXTINF:-1 group-title="HISTAR IPTV",bravo
+http://www.biaozhun114.com/dl/dl888/histar.php?bravo
+#EXTINF:-1 group-title="HISTAR IPTV",jtyl
+http://www.biaozhun114.com/dl/dl888/histar.php?jtyl
+#EXTINF:-1 group-title="HISTAR IPTV",jtzh
+http://www.biaozhun114.com/dl/dl888/histar.php?jtzh
+#EXTINF:-1 group-title="HISTAR IPTV",ebc-super
+http://www.biaozhun114.com/dl/dl888/histar.php?ebc-super
+#EXTINF:-1 group-title="HISTAR IPTV",ctv
+http://www.biaozhun114.com/dl/dl888/histar.php?ctv
+#EXTINF:-1 group-title="HISTAR IPTV",tvbs-huanle
+http://www.biaozhun114.com/dl/dl888/histar.php?tvbs-huanle
+#EXTINF:-1 group-title="HISTAR IPTV",pts-3
+http://www.biaozhun114.com/dl/dl888/histar.php?pts-3
+#EXTINF:-1 group-title="HISTAR IPTV",pts-ty
+http://www.biaozhun114.com/dl/dl888/histar.php?pts-ty
+#EXTINF:-1 group-title="HISTAR IPTV",ftv-one
+http://www.biaozhun114.com/dl/dl888/histar.php?ftv-one
+#EXTINF:-1 group-title="HISTAR IPTV",ftv-drama
+http://www.biaozhun114.com/dl/dl888/histar.php?ftv-drama
+#EXTINF:-1 group-title="HISTAR IPTV",ftv-reality
+http://www.biaozhun114.com/dl/dl888/histar.php?ftv-reality
+#EXTINF:-1 group-title="HISTAR IPTV",ftv-travel
+http://www.biaozhun114.com/dl/dl888/histar.php?ftv-travel
+#EXTINF:-1 group-title="HISTAR IPTV",cti-yule
+http://www.biaozhun114.com/dl/dl888/histar.php?cti-yule
+#EXTINF:-1 group-title="HISTAR IPTV",videoland-drama
+http://www.biaozhun114.com/dl/dl888/histar.php?videoland-drama
+#EXTINF:-1 group-title="HISTAR IPTV",gtv-86
+http://www.biaozhun114.com/dl/dl888/histar.php?gtv-86
+#EXTINF:-1 group-title="HISTAR IPTV",gtv-41
+http://www.biaozhun114.com/dl/dl888/histar.php?gtv-41
+#EXTINF:-1 group-title="HISTAR IPTV",settv-drama
+http://www.biaozhun114.com/dl/dl888/histar.php?settv-drama
+#EXTINF:-1 group-title="HISTAR IPTV",ctv-classic
+http://www.biaozhun114.com/dl/dl888/histar.php?ctv-classic
+#EXTINF:-1 group-title="HISTAR IPTV",grt
+http://www.biaozhun114.com/dl/dl888/histar.php?grt
+#EXTINF:-1 group-title="HISTAR IPTV",gtv-jct
+http://www.biaozhun114.com/dl/dl888/histar.php?gtv-jct
+#EXTINF:-1 group-title="HISTAR IPTV",elta-ylt
+http://www.biaozhun114.com/dl/dl888/histar.php?elta-ylt
+#EXTINF:-1 group-title="HISTAR IPTV",cnex
+http://www.biaozhun114.com/dl/dl888/histar.php?cnex
+#EXTINF:-1 group-title="HISTAR IPTV",jtxjt
+http://www.biaozhun114.com/dl/dl888/histar.php?jtxjt
+#EXTINF:-1 group-title="HISTAR IPTV",gsxj
+http://www.biaozhun114.com/dl/dl888/histar.php?gsxj
+#EXTINF:-1 group-title="HISTAR IPTV",caichang
+http://www.biaozhun114.com/dl/dl888/histar.php?caichang
+#EXTINF:-1 group-title="HISTAR IPTV",jtyh
+http://www.biaozhun114.com/dl/dl888/histar.php?jtyh
+#EXTINF:-1 group-title="HISTAR IPTV",ltv-rihan
+http://www.biaozhun114.com/dl/dl888/histar.php?ltv-rihan
+#EXTINF:-1 group-title="HISTAR IPTV",ltv-xiju
+http://www.biaozhun114.com/dl/dl888/histar.php?ltv-xiju
+#EXTINF:-1 group-title="HISTAR IPTV",fans-cinema
+http://www.biaozhun114.com/dl/dl888/histar.php?fans-cinema
+#EXTINF:-1 group-title="HISTAR IPTV",ymswjst
+http://www.biaozhun114.com/dl/dl888/histar.php?ymswjst
+#EXTINF:-1 group-title="HISTAR IPTV",MTV Live HD
+http://www.biaozhun114.com/dl/dl888/histar.php?mtv
+#EXTINF:-1 group-title="HISTAR IPTV",jyxj
+http://www.biaozhun114.com/dl/dl888/histar.php?jyxj
+#EXTINF:-1 group-title="HISTAR IPTV",ftv-news
+http://www.biaozhun114.com/dl/dl888/histar.php?ftv-news
+#EXTINF:-1 group-title="HISTAR IPTV",settv-news
+http://www.biaozhun114.com/dl/dl888/histar.php?settv-news
+#EXTINF:-1 group-title="HISTAR IPTV",settv-inews
+http://www.biaozhun114.com/dl/dl888/histar.php?settv-inews
+#EXTINF:-1 group-title="HISTAR IPTV",unique-business-news
+http://www.biaozhun114.com/dl/dl888/histar.php?unique-business-news
+#EXTINF:-1 group-title="HISTAR IPTV",SBN
+http://www.biaozhun114.com/dl/dl888/histar.php?sbn
+#EXTINF:-1 group-title="HISTAR IPTV",aljazeera
+http://www.biaozhun114.com/dl/dl888/histar.php?aljazeera
+#EXTINF:-1 group-title="HISTAR IPTV",global-news-tw
+http://www.biaozhun114.com/dl/dl888/histar.php?global-news-tw
+#EXTINF:-1 group-title="HISTAR IPTV",TVBS HD
+http://www.biaozhun114.com/dl/dl888/histar.php?tvbs-hd
+#EXTINF:-1 group-title="HISTAR IPTV",tvbs-news
+http://www.biaozhun114.com/dl/dl888/histar.php?tvbs-news
+#EXTINF:-1 group-title="HISTAR IPTV",nexttv HD
+http://www.biaozhun114.com/dl/dl888/histar.php?nexttv
+#EXTINF:-1 group-title="HISTAR IPTV",global-finance
+http://www.biaozhun114.com/dl/dl888/histar.php?global-finance
+#EXTINF:-1 group-title="HISTAR IPTV",mnews
+http://www.biaozhun114.com/dl/dl888/histar.php?mnews
+#EXTINF:-1 group-title="HISTAR IPTV",daai2
+http://www.biaozhun114.com/dl/dl888/histar.php?daai2
+#EXTINF:-1 group-title="HISTAR IPTV",daai1
+http://www.biaozhun114.com/dl/dl888/histar.php?daai1
+#EXTINF:-1 group-title="HISTAR IPTV",tv2
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="HISTAR IPTV",Astro wahlaitoi
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-wahlaitoi
+#EXTINF:-1 group-title="HISTAR IPTV",animal-planet
+http://www.biaozhun114.com/dl/dl888/histar.php?animal-planet
+#EXTINF:-1 group-title="HISTAR IPTV",discovery
+http://www.biaozhun114.com/dl/dl888/histar.php?discovery
+#EXTINF:-1 group-title="HISTAR IPTV",DMAX
+http://www.biaozhun114.com/dl/dl888/histar.php?dmax
+#EXTINF:-1 group-title="HISTAR IPTV",discovery-sci
+http://www.biaozhun114.com/dl/dl888/histar.php?discovery-sci
+#EXTINF:-1 group-title="HISTAR IPTV",discovery-asia
+http://www.biaozhun114.com/dl/dl888/histar.php?discovery-asia
+#EXTINF:-1 group-title="HISTAR IPTV",History
+http://www.biaozhun114.com/dl/dl888/histar.php?history
+#EXTINF:-1 group-title="HISTAR IPTV",History-2
+http://www.biaozhun114.com/dl/dl888/histar.php?history-2
+#EXTINF:-1 group-title="HISTAR IPTV",TLC
+http://www.biaozhun114.com/dl/dl888/histar.php?tlc
+#EXTINF:-1 group-title="HISTAR IPTV",CI
+http://www.biaozhun114.com/dl/dl888/histar.php?ci
+#EXTINF:-1 group-title="HISTAR IPTV",GOOD
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+#EXTINF:-1 group-title="HISTAR IPTV",asia-travel
+http://www.biaozhun114.com/dl/dl888/histar.php?asia-travel
+#EXTINF:-1 group-title="HISTAR IPTV",food-planet
+http://www.biaozhun114.com/dl/dl888/histar.php?food-planet
+#EXTINF:-1 group-title="HISTAR IPTV",EYE TRAVEL
+http://www.biaozhun114.com/dl/dl888/histar.php?eye-travel
+#EXTINF:-1 group-title="HISTAR IPTV",AstroAwani
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-awani
+#EXTINF:-1 group-title="HISTAR IPTV",AstroCeria
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-ceria
+#EXTINF:-1 group-title="HISTAR IPTV",AstroONE
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-one
+#EXTINF:-1 group-title="HISTAR IPTV",AstroPrima
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-prima
+#EXTINF:-1 group-title="HISTAR IPTV",AstroOasis
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-oasis
+#EXTINF:-1 group-title="HISTAR IPTV",AstroWarna
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-warna
+#EXTINF:-1 group-title="HISTAR IPTV",AstroRania
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-rania
+#EXTINF:-1 group-title="HISTAR IPTV",AstroAura
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-aura
+#EXTINF:-1 group-title="HISTAR IPTV",8TV
+http://www.biaozhun114.com/dl/dl888/histar.php?8tv
+#EXTINF:-1 group-title="HISTAR IPTV",TV9
+http://www.biaozhun114.com/dl/dl888/histar.php?tv9
+#EXTINF:-1 group-title="HISTAR IPTV",AstroCitra
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-citra
+#EXTINF:-1 group-title="HISTAR IPTV",AstroAEC
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-aec
+#EXTINF:-1 group-title="HISTAR IPTV",Astro shuangxing
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-shuangxing
+#EXTINF:-1 group-title="HISTAR IPTV",Astro quanjia HD
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-quanjia
+#EXTINF:-1 group-title="HISTAR IPTV",AstroAODHD
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-aod-hd
+#EXTINF:-1 group-title="HISTAR IPTV",Astro huaheedai
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-huaheedai
+#EXTINF:-1 group-title="HISTAR IPTV",AstroAOD
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-aod
+#EXTINF:-1 group-title="HISTAR IPTV",AstroArenaHD
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-arena-hd
+#EXTINF:-1 group-title="HISTAR IPTV",AstroArena2
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-arena2
+#EXTINF:-1 group-title="HISTAR IPTV",Astro iqiyi
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-iqiyi
+#EXTINF:-1 group-title="HISTAR IPTV",Channel5
+http://www.biaozhun114.com/dl/dl888/histar.php?channel-5
+#EXTINF:-1 group-title="HISTAR IPTV",ChannelU
+http://www.biaozhun114.com/dl/dl888/histar.php?channel-u
+#EXTINF:-1 group-title="HISTAR IPTV",OKEY
+http://www.biaozhun114.com/dl/dl888/histar.php?okey
+#EXTINF:-1 group-title="HISTAR IPTV",ABCNews
+http://www.biaozhun114.com/dl/dl888/histar.php?abc-news
+#EXTINF:-1 group-title="HISTAR IPTV",Bloomberg
+http://www.biaozhun114.com/dl/dl888/histar.php?bloomberg
+#EXTINF:-1 group-title="HISTAR IPTV",FoxNews
+http://www.biaozhun114.com/dl/dl888/histar.php?fox-news
+#EXTINF:-1 group-title="HISTAR IPTV",BBCWorldNews
+http://www.biaozhun114.com/dl/dl888/histar.php?bbc-world-news
+#EXTINF:-1 group-title="HISTAR IPTV",CNN
+http://www.biaozhun114.com/dl/dl888/histar.php?cnn
+#EXTINF:-1 group-title="HISTAR IPTV",CBSNews
+http://www.biaozhun114.com/dl/dl888/histar.php?cbsn
+#EXTINF:-1 group-title="HISTAR IPTV",CNBC
+http://www.biaozhun114.com/dl/dl888/histar.php?cnbc
+#EXTINF:-1 group-title="HISTAR IPTV",CNBC
+http://www.biaozhun114.com/dl/dl888/histar.php?/live
+#EXTINF:-1 group-title="HISTAR IPTV",videoland-sport
+http://www.biaozhun114.com/dl/dl888/histar.php?videoland-sport
+#EXTINF:-1 group-title="HISTAR IPTV",eleven-sport1
+http://www.biaozhun114.com/dl/dl888/histar.php?eleven-sport1
+#EXTINF:-1 group-title="HISTAR IPTV",eleven-sport2
+http://www.biaozhun114.com/dl/dl888/histar.php?eleven-sport2
+#EXTINF:-1 group-title="HISTAR IPTV",sportcast1
+http://www.biaozhun114.com/dl/dl888/histar.php?sportcast1
+#EXTINF:-1 group-title="HISTAR IPTV",sportcast2
+http://www.biaozhun114.com/dl/dl888/histar.php?sportcast2
+#EXTINF:-1 group-title="HISTAR IPTV",sportcast-golf1
+http://www.biaozhun114.com/dl/dl888/histar.php?sportcast-golf1
+#EXTINF:-1 group-title="HISTAR IPTV",sportcast-golf2
+http://www.biaozhun114.com/dl/dl888/histar.php?sportcast-golf2
+#EXTINF:-1 group-title="HISTAR IPTV",sportcast-tennis
+http://www.biaozhun114.com/dl/dl888/histar.php?sportcast-tennis
+#EXTINF:-1 group-title="HISTAR IPTV",SonySports1HD
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports1
+#EXTINF:-1 group-title="HISTAR IPTV",SonySports2HD
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports2
+#EXTINF:-1 group-title="HISTAR IPTV",SonySports3HD
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports3
+#EXTINF:-1 group-title="HISTAR IPTV",SonySports4HD
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports4
+#EXTINF:-1 group-title="HISTAR IPTV",Eurosports-2
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports5
+#EXTINF:-1 group-title="HISTAR IPTV",beINSportsMAX
+http://www.biaozhun114.com/dl/dl888/histar.php?bein-max
+#EXTINF:-1 group-title="HISTAR IPTV",SPOTV-2
+http://www.biaozhun114.com/dl/dl888/histar.php?spotv2
+#EXTINF:-1 group-title="HISTAR IPTV",SPOTV
+http://www.biaozhun114.com/dl/dl888/histar.php?spotv
+#EXTINF:-1 group-title="HISTAR IPTV",beINSports2
+http://www.biaozhun114.com/dl/dl888/histar.php?bein-sports2
+#EXTINF:-1 group-title="HISTAR IPTV",beINSports1
+http://www.biaozhun114.com/dl/dl888/histar.php?bein-sports1
+#EXTINF:-1 group-title="HISTAR IPTV",beINSports3
+http://www.biaozhun114.com/dl/dl888/histar.php?bein-sports3
+#EXTINF:-1 group-title="HISTAR IPTV",EurosportHD
+http://www.biaozhun114.com/dl/dl888/histar.php?eurosport-hd
+#EXTINF:-1 group-title="HISTAR IPTV",Eurosports-1
+http://www.biaozhun114.com/dl/dl888/histar.php?eurosports-1
+#EXTINF:-1 group-title="HISTAR IPTV",sportcast-wx
+http://www.biaozhun114.com/dl/dl888/histar.php?sportcast-wx
+#EXTINF:-1 group-title="HISTAR IPTV",?elta-sport1
+http://www.biaozhun114.com/dl/dl888/histar.php?elta-sport1
+#EXTINF:-1 group-title="HISTAR IPTV",elta-sport2
+http://www.biaozhun114.com/dl/dl888/histar.php?elta-sport2
+#EXTINF:-1 group-title="HISTAR IPTV",jtkt
+http://www.biaozhun114.com/dl/dl888/histar.php?jtkt
+#EXTINF:-1 group-title="HISTAR IPTV",Astro xty
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-xty
+#EXTINF:-1 group-title="HISTAR IPTV",ebc-yoyo
+http://www.biaozhun114.com/dl/dl888/histar.php?ebc-yoyo
+#EXTINF:-1 group-title="HISTAR IPTV",MOMOTV
+http://www.biaozhun114.com/dl/dl888/histar.php?momotv
+#EXTINF:-1 group-title="HISTAR IPTV",nick-jr
+http://www.biaozhun114.com/dl/dl888/histar.php?nick-jr
+#EXTINF:-1 group-title="HISTAR IPTV",MOMO kids
+http://www.biaozhun114.com/dl/dl888/histar.php?momo-kids
+#EXTINF:-1 group-title="HISTAR IPTV",CN
+http://www.biaozhun114.com/dl/dl888/histar.php?cn-cartoon
+#EXTINF:-1 group-title="HISTAR IPTV",BoomerangHD
+http://www.biaozhun114.com/dl/dl888/histar.php?boomerang-hd
+#EXTINF:-1 group-title="HISTAR IPTV",Animax
+http://www.biaozhun114.com/dl/dl888/histar.php?animax-cartoon
+#EXTINF:-1 group-title="HISTAR IPTV",nickelodeon
+http://www.biaozhun114.com/dl/dl888/histar.php?nickelodeon
+#EXTINF:-1 group-title="HISTAR IPTV",BeritaRTM
+http://www.biaozhun114.com/dl/dl888/histar.php?beritartm
+#EXTINF:-1 group-title="HISTAR IPTV",SukanRTM
+http://www.biaozhun114.com/dl/dl888/histar.php?sukanrtm
+#EXTINF:-1 group-title="HISTAR IPTV",DramaSangat
+http://www.biaozhun114.com/dl/dl888/histar.php?dramasangat
+#EXTINF:-1 group-title="HISTAR IPTV",tvN
+http://www.biaozhun114.com/dl/dl888/histar.php?tvn
+#EXTINF:-1 group-title="HISTAR IPTV",TV1
+http://www.biaozhun114.com/dl/dl888/histar.php?tv1-my
+#EXTINF:-1 group-title="HISTAR IPTV",TV2
+http://www.biaozhun114.com/dl/dl888/histar.php?tv2-my
+#EXTINF:-1 group-title="HISTAR IPTV",TV3
+http://www.biaozhun114.com/dl/dl888/histar.php?tv3-my
+#EXTINF:-1 group-title="HISTAR IPTV",Astro RIA
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-ria
+#EXTINF:-1 group-title="HISTAR IPTV",Astro AURA
+http://www.biaozhun114.com/dl/dl888/histar.php?astra-aura
+#EXTINF:-1 group-title="HISTAR IPTV",TV Alhijrah
+http://www.biaozhun114.com/dl/dl888/histar.php?tv-alhijrah
+#EXTINF:-1 group-title="HISTAR IPTV",ColorsHindi
+http://www.biaozhun114.com/dl/dl888/histar.php?colorshindi
+#EXTINF:-1 group-title="HISTAR IPTV",TVS
+http://www.biaozhun114.com/dl/dl888/histar.php?tvs
+#EXTINF:-1 group-title="HISTAR IPTV",AwesomeTV
+http://www.biaozhun114.com/dl/dl888/histar.php?awesometv
+#EXTINF:-1 group-title="HISTAR IPTV",DidikTV7
+http://www.biaozhun114.com/dl/dl888/histar.php?didiktv7
+#EXTINF:-1 group-title="HISTAR IPTV",Astro Vaanavil
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-vaanavil
+#EXTINF:-1 group-title="HISTAR IPTV",Astro Vinmeen
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-vinmeen
+#EXTINF:-1 group-title="HISTAR IPTV",Astro Vellithirai
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-vellithirai
+#EXTINF:-1 group-title="HISTAR IPTV",SunTV
+http://www.biaozhun114.com/dl/dl888/histar.php?suntv
+#EXTINF:-1 group-title="HISTAR IPTV",SunMusic
+http://www.biaozhun114.com/dl/dl888/histar.php?sunmusic
+#EXTINF:-1 group-title="HISTAR IPTV",SunNews
+http://www.biaozhun114.com/dl/dl888/histar.php?sunnews
+#EXTINF:-1 group-title="HISTAR IPTV",Adithya
+http://www.biaozhun114.com/dl/dl888/histar.php?adithya
+#EXTINF:-1 group-title="HISTAR IPTV",KTVHD
+http://www.biaozhun114.com/dl/dl888/histar.php?ktvhd
+#EXTINF:-1 group-title="HISTAR IPTV",SunLife
+http://www.biaozhun114.com/dl/dl888/histar.php?sunlife
+#EXTINF:-1 group-title="HISTAR IPTV",StarVijay
+http://www.biaozhun114.com/dl/dl888/histar.php?starvijay
+#EXTINF:-1 group-title="HISTAR IPTV",ColorsTamil
+http://www.biaozhun114.com/dl/dl888/histar.php?colorstamil
+#EXTINF:-1 group-title="HISTAR IPTV",ZeeTamil
+http://www.biaozhun114.com/dl/dl888/histar.php?zeetamil
+#EXTINF:-1 group-title="HISTAR IPTV",ZeeCinemaHD
+http://www.biaozhun114.com/dl/dl888/histar.php?zeecinemahd
+#EXTINF:-1 group-title="HISTAR IPTV",KBSWorld
+http://www.biaozhun114.com/dl/dl888/histar.php?kbsworld
+#EXTINF:-1 group-title="HISTAR IPTV",HITSMovies
+http://www.biaozhun114.com/dl/dl888/histar.php?hitsmovies
+#EXTINF:-1 group-title="HISTAR IPTV",Boo
+http://www.biaozhun114.com/dl/dl888/histar.php?boo
+#EXTINF:-1 group-title="HISTAR IPTV",AstroPremier
+http://www.biaozhun114.com/dl/dl888/histar.php?astropremier
+#EXTINF:-1 group-title="HISTAR IPTV",ShowCase
+http://www.biaozhun114.com/dl/dl888/histar.php?showcase
+#EXTINF:-1 group-title="HISTAR IPTV",Bernama
+http://www.biaozhun114.com/dl/dl888/histar.php?bernama
+#EXTINF:-1 group-title="HISTAR IPTV",ChannelNewsAsia
+http://www.biaozhun114.com/dl/dl888/histar.php?channelnewsasia
+#EXTINF:-1 group-title="HISTAR IPTV",BBCEarth
+http://www.biaozhun114.com/dl/dl888/histar.php?bbcearth
+#EXTINF:-1 group-title="HISTAR IPTV",Asian Food Network
+http://www.biaozhun114.com/dl/dl888/histar.php?asian-food-network
+#EXTINF:-1 group-title="HISTAR IPTV",Astro TUTOR TV
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-tutor-tv
+#EXTINF:-1 group-title="HISTAR IPTV",Moonbug
+http://www.biaozhun114.com/dl/dl888/histar.php?moonbug
+#EXTINF:-1 group-title="HISTAR IPTV",MTVLive
+http://www.biaozhun114.com/dl/dl888/histar.php?mtvlive
+#EXTINF:-1 group-title="HISTAR IPTV",Arena Bola
+http://www.biaozhun114.com/dl/dl888/histar.php?arena-bola
+#EXTINF:-1 group-title="HISTAR IPTV",Arena Bola2
+http://www.biaozhun114.com/dl/dl888/histar.php?arena-bola2
+#EXTINF:-1 group-title="HISTAR IPTV",W-Sport
+http://www.biaozhun114.com/dl/dl888/histar.php?w-sport
+#EXTINF:-1 group-title="HISTAR IPTV",Astro GolfChannel
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-golfchannel
+#EXTINF:-1 group-title="HISTAR IPTV",PremierSports
+http://www.biaozhun114.com/dl/dl888/histar.php?premiersports
+#EXTINF:-1 group-title="HISTAR IPTV",Mediacorp Suria
+http://www.biaozhun114.com/dl/dl888/histar.php?mediacorp-suria
+#EXTINF:-1 group-title="HISTAR IPTV",Mediacorp Vasantham
+http://www.biaozhun114.com/dl/dl888/histar.php?mediacorp-vasantham
+#EXTINF:-1 group-title="HISTAR IPTV",Gem
+http://www.biaozhun114.com/dl/dl888/histar.php?gem
+#EXTINF:-1 group-title="HISTAR IPTV",GlobalTrekker
+http://www.biaozhun114.com/dl/dl888/histar.php?globaltrekker
+#EXTINF:-1 group-title="HISTAR IPTV",Astro AEC
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-aec
+#EXTINF:-1 group-title="HISTAR IPTV",Astro Awani
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-awani
+#EXTINF:-1 group-title="HISTAR IPTV",Astro AOD 352
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-aod-hd
+#EXTINF:-1 group-title="HISTAR IPTV",Astro AOD 354
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-aod
+#EXTINF:-1 group-title="HISTAR IPTV",Astro huaheedai
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-huaheedai
+#EXTINF:-1 group-title="HISTAR IPTV",Channel U
+http://www.biaozhun114.com/dl/dl888/histar.php?channel-u
+#EXTINF:-1 group-title="HISTAR IPTV",Channel 5
+http://www.biaozhun114.com/dl/dl888/histar.php?channel-5
+#EXTINF:-1 group-title="HISTAR IPTV",Channel 8
+http://www.biaozhun114.com/dl/dl888/histar.php?channel8
+#EXTINF:-1 group-title="HISTAR IPTV",Astro QJ
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-quanjia
+#EXTINF:-1 group-title="HISTAR IPTV",tvN Movies
+http://www.biaozhun114.com/dl/dl888/histar.php?tvn-movies
+#EXTINF:-1 group-title="HISTAR IPTV",TVB Magic
+http://www.biaozhun114.com/dl/dl888/histar.php?tvb-magic
+#EXTINF:-1 group-title="HISTAR IPTV",AXN
+http://www.biaozhun114.com/dl/dl888/histar.php?axn
+#EXTINF:-1 group-title="HISTAR IPTV",Astro iqiyi
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-iqiyi
+#EXTINF:-1 group-title="HISTAR IPTV",Astro Arena HD
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-arena-hd
+#EXTINF:-1 group-title="HISTAR IPTV",Astro Arena 2
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-arena2
+#EXTINF:-1 group-title="HISTAR IPTV",Astro ONE
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-one
+#EXTINF:-1 group-title="HISTAR IPTV",Astro Ceria
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-ceria
+#EXTINF:-1 group-title="HISTAR IPTV",Astro Prima
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-prima
+#EXTINF:-1 group-title="HISTAR IPTV",Astro Warna
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-warna
+#EXTINF:-1 group-title="HISTAR IPTV",Astro Aura
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-aura
+#EXTINF:-1 group-title="HISTAR IPTV",Astro Oasis
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-oasis
+#EXTINF:-1 group-title="HISTAR IPTV",Astro Rania
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-rania
+#EXTINF:-1 group-title="HISTAR IPTV",Astro Citra
+http://www.biaozhun114.com/dl/dl888/histar.php?astro-citra
+#EXTINF:-1 group-title="HISTAR IPTV",ROCK Action
+http://www.biaozhun114.com/dl/dl888/histar.php?rock-action
+#EXTINF:-1 group-title="HISTAR IPTV",ROCK Entertainment
+http://www.biaozhun114.com/dl/dl888/histar.php?rock-entertaiment
+#EXTINF:-1 group-title="HISTAR IPTV",amc movie
+http://www.biaozhun114.com/dl/dl888/histar.php?amc-movie
+#EXTINF:-1 group-title="HISTAR IPTV",Lifetime 
+http://www.biaozhun114.com/dl/dl888/histar.php?lifetime
+#EXTINF:-1 group-title="HISTAR IPTV",fun 
+http://www.biaozhun114.com/dl/dl888/histar.php?festival4k
+#EXTINF:-1 group-title="HISTAR IPTV",MyCinema Europe HD
+http://www.biaozhun114.com/dl/dl888/histar.php?mycinema-europe
+#EXTINF:-1 group-title="HISTAR IPTV",Cinemax
+http://www.biaozhun114.com/dl/dl888/histar.php?cinemax
+#EXTINF:-1 group-title="HISTAR IPTV",HBO HD
+http://www.biaozhun114.com/dl/dl888/histar.php?hbo-hd
+#EXTINF:-1 group-title="HISTAR IPTV",HBO Hits HD
+http://www.biaozhun114.com/dl/dl888/histar.php?hbo-hits-hd
+#EXTINF:-1 group-title="HISTAR IPTV",HBO Signature HD
+http://www.biaozhun114.com/dl/dl888/histar.php?hbo-signature
+#EXTINF:-1 group-title="HISTAR IPTV",HBO Family HD
+http://www.biaozhun114.com/dl/dl888/histar.php?hbo-family
+#EXTINF:-1 group-title="HISTAR IPTV",VOA
+http://www.biaozhun114.com/dl/dl888/histar.php?voa
+#EXTINF:-1 group-title="HISTAR IPTV",DW
+http://www.biaozhun114.com/dl/dl888/histar.php?dw
+#EXTINF:-1 group-title="HISTAR IPTV",CNN International
+http://www.biaozhun114.com/dl/dl888/histar.php?cnn-international
+#EXTINF:-1 group-title="HISTAR IPTV",HLN
+http://www.biaozhun114.com/dl/dl888/histar.php?cnn-hln
+#EXTINF:-1 group-title="HISTAR IPTV",BBC World News
+http://www.biaozhun114.com/dl/dl888/histar.php?bbc-world-news
+#EXTINF:-1 group-title="HISTAR IPTV",Euronews
+http://www.biaozhun114.com/dl/dl888/histar.php?euronews
+#EXTINF:-1 group-title="HISTAR IPTV",ABC News
+http://www.biaozhun114.com/dl/dl888/histar.php?abc-news
+#EXTINF:-1 group-title="HISTAR IPTV",beIN Sports
+http://www.biaozhun114.com/dl/dl888/histar.php?beinsports
+#EXTINF:-1 group-title="HISTAR IPTV",beIN Sports 2
+http://www.biaozhun114.com/dl/dl888/histar.php?beinsports2
+#EXTINF:-1 group-title="HISTAR IPTV",beIN Sports 3
+http://www.biaozhun114.com/dl/dl888/histar.php?beinsports3
+#EXTINF:-1 group-title="HISTAR IPTV",mytv-super-soccer1
+http://www.biaozhun114.com/dl/dl888/histar.php?mytv-super-soccer1
+#EXTINF:-1 group-title="HISTAR IPTV",mytv-super-soccer2
+http://www.biaozhun114.com/dl/dl888/histar.php?mytv-super-soccer2
+#EXTINF:-1 group-title="HISTAR IPTV",mytv-super-soccer3
+http://www.biaozhun114.com/dl/dl888/histar.php?mytv-super-soccer3
+#EXTINF:-1 group-title="HISTAR IPTV",mytv-super-soccer4
+http://www.biaozhun114.com/dl/dl888/histar.php?mytv-super-soccer4
+#EXTINF:-1 group-title="HISTAR IPTV",GINX Esports TV
+http://www.biaozhun114.com/dl/dl888/histar.php?ginx-esports
+#EXTINF:-1 group-title="HISTAR IPTV",zl-sports
+http://www.biaozhun114.com/dl/dl888/histar.php?zl-sports
+#EXTINF:-1 group-title="HISTAR IPTV",ssydx X
+http://www.biaozhun114.com/dl/dl888/histar.php?ssydx
+#EXTINF:-1 group-title="HISTAR IPTV",TVBS新闻(5G)
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="HISTAR IPTV",东森新闻美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="HISTAR IPTV",华语电视2
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 group-title="HISTAR IPTV",华语电视3
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 group-title="HISTAR IPTV",NBA
+http://www.biaozhun114.com/dl/dl888/histar.php?nba
+#EXTINF:-1 group-title="HISTAR IPTV",elta-sport1
+http://www.biaozhun114.com/dl/dl888/histar.php?elta-sport1
+#EXTINF:-1 group-title="HISTAR IPTV",elta-sport2
+http://www.biaozhun114.com/dl/dl888/histar.php?elta-sport2
+#EXTINF:-1 group-title="HISTAR IPTV",elta-sport3
+http://www.biaozhun114.com/dl/dl888/histar.php?elta-sport3
+#EXTINF:-1 group-title="HISTAR IPTV",elta-sport4
+http://www.biaozhun114.com/dl/dl888/histar.php?elta-sport4
+#EXTINF:-1 group-title="HISTAR IPTV",WWE
+http://www.biaozhun114.com/dl/dl888/histar.php?wwe
+#EXTINF:-1 group-title="HISTAR IPTV",Astro SuperSport
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports1
+#EXTINF:-1 group-title="HISTAR IPTV",Astro SuperSport 2
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports2
+#EXTINF:-1 group-title="HISTAR IPTV",Astro SuperSport 3
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports3
+#EXTINF:-1 group-title="HISTAR IPTV",Astro SuperSport 4
+http://www.biaozhun114.com/dl/dl888/histar.php?super-sports4
+#EXTINF:-1 group-title="HISTAR IPTV",TRACE Sport Stars
+http://www.biaozhun114.com/dl/dl888/histar.php?trace-sport-stars
+#EXTINF:-1 group-title="HISTAR IPTV",Tech Storm
+http://www.biaozhun114.com/dl/dl888/histar.php?tech-storm
+#EXTINF:-1 group-title="HISTAR IPTV",i-Fun
+http://www.biaozhun114.com/dl/dl888/histar.php?i-fun
+#EXTINF:-1 group-title="HISTAR IPTV",DreamWorks
+http://www.biaozhun114.com/dl/dl888/histar.php?dreamworks
+#EXTINF:-1 group-title="HISTAR IPTV",NiceBingo
+http://www.biaozhun114.com/dl/dl888/histar.php?nice-bingo
+#EXTINF:-1 group-title="HISTAR IPTV",da-vinci
+http://www.biaozhun114.com/dl/dl888/histar.php?da-vinci
+#EXTINF:-1 group-title="HISTAR IPTV",disney
+http://www.biaozhun114.com/dl/dl888/histar.php?disney
+#EXTINF:-1 group-title="HISTAR IPTV",MOMO
+http://www.biaozhun114.com/dl/dl888/histar.php?momo-kids
+#EXTINF:-1 group-title="HISTAR IPTV",ELTV
+http://www.biaozhun114.com/dl/dl888/histar.php?eltv
+#EXTINF:-1 group-title="HISTAR IPTV",Animax
+http://www.biaozhun114.com/dl/dl888/histar.php?animax-cartoon
+#EXTINF:-1 group-title="HISTAR IPTV",Boomerang HD
+http://www.biaozhun114.com/dl/dl888/histar.php?boomerang-hd
+#EXTINF:-1 group-title="HISTAR IPTV",motorvision
+http://www.biaozhun114.com/dl/dl888/histar.php?motorvision
+#EXTINF:-1 group-title="HISTAR IPTV",elta-lifetravel
+http://www.biaozhun114.com/dl/dl888/histar.php?elta-lifetravel
+#EXTINF:-1 group-title="HISTAR IPTV",Love Nature
+http://www.biaozhun114.com/dl/dl888/histar.php?love-nature
+#EXTINF:-1 group-title="HISTAR IPTV",LUXE TV Channel
+http://www.biaozhun114.com/dl/dl888/histar.php?luxe-tv
+#EXTINF:-1 group-title="HISTAR IPTV",滚动力 rollor
+http://www.biaozhun114.com/dl/dl888/histar.php?rollor
+#EXTINF:-1 group-title="HISTAR IPTV",History
+http://www.biaozhun114.com/dl/dl888/histar.php?history
+#EXTINF:-1 group-title="HISTAR IPTV",History-2
+http://www.biaozhun114.com/dl/dl888/histar.php?history-2
+#EXTINF:-1 group-title="HISTAR IPTV",TLC
+http://www.biaozhun114.com/dl/dl888/histar.php?tlc
+#EXTINF:-1 group-title="HISTAR IPTV",EYE
+http://www.biaozhun114.com/dl/dl888/histar.php?eye-travel
+#EXTINF:-1 group-title="HISTAR IPTV",CI
+http://www.biaozhun114.com/dl/dl888/histar.php?ci
+
+
 =========================================== Malaysia ===========================================
 
 #EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste Malaysia
@@ -3749,6 +4483,23 @@ https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="Malaysia",TV1 (Myfreeview Feed)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-title="Malaysia",TV2 (Myfreeview Feed)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 group-title="Malaysia" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png", TV Okey (MyFreeview Feed)
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF:-1 group-title="🇲🇾Myfreeview🇲🇾" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 group-title="Malaysia" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png", group-title="🇲🇾Myfreeview🇲🇾",TV AlHijrah (MyFreeview Feed)
+https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_8b9f457013db11ed850317f9f49848aa/index.fmp4.m3u8
+#EXTINF:-1 group-title="Malaysia" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+#EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="Malaysia" group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS 
+https://stream.smg.my/live/tvs.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY001:TV 1" tvg-logo="" group-title="Malaysia",MY001:TV 1
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1734
