@@ -5038,12 +5038,12 @@ https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8|user-agent=okhttp/4.10.0
 
 =========================================== DADDY LIVE ===========================================
 
-#EXTINF:-1 group-title="Daddy Live" tvg-id="NationalGeographic.us" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/3RM5cGQ2/download-2024-01-01-T095903-805.png",National Geographic East 
+#EXTINF:-1 group-title="Daddy Live" tvg-id="NationalGeographic.us" group-logo="" tvg-logo="https://i.postimg.cc/3RM5cGQ2/download-2024-01-01-T095903-805.png",National Geographic East 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webudit.webhd.ru/lb/premium328/index.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetwork" group-title="Daddy Live" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png",Cartoon Network EAST
+#EXTINF:-1 tvg-id="CartoonNetwork" group-title="Daddy Live" group-logo="" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png",Cartoon Network EAST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
 https://webudit.webhd.ru/lb/premium339/index.m3u8
@@ -5053,7 +5053,7 @@ https://webudit.webhd.ru/lb/premium339/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
 https://webudit.webhd.ru/lb/premium330/index.m3u8
 
-#EXTINF:-1 group-title="Daddy Live" tvg-id="disneychanneleast.us" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",Disney Channel East (A)
+#EXTINF:-1 group-title="Daddy Live" tvg-id="disneychanneleast.us" group-logo=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",Disney Channel East (A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
 https://webudit.webhd.ru/lb/premium312/index.m3u8
@@ -5068,7 +5068,7 @@ https://webudit.webhd.ru/lb/premium314/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
 https://webudit.webhd.ru/lb/premium649/index.m3u8
 
-#EXTINF:-1 group-title="Daddy Live" tvg-id="USANETWORK.us" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" tvg-logo="https://i.postimg.cc/t4134Z81/download-2024-01-01-T095451-076.png",USA NETWORK
+#EXTINF:-1 group-title="Daddy Live" tvg-id="USANETWORK.us" group-logo="" tvg-logo="https://i.postimg.cc/t4134Z81/download-2024-01-01-T095451-076.png",USA NETWORK
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webudit.webhd.ru/lb/premium343/index.m3u8
@@ -5148,7 +5148,7 @@ https://webudit.webhd.ru/lb/premium34/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
 https://webudit.webhd.ru/lb/premium648/index.m3u8
 
-#EXTINF:-1 group-title="Daddy Live" group-logo="https://i.postimg.cc/13sYFFMt/download-2023-12-28-T013454-077.png" tvg-logo="https://i.postimg.cc/tRBkYcws/download-2024-01-13-T191539-850.png",Discovery Family US
+#EXTINF:-1 group-title="Daddy Live" group-logo="" tvg-logo="https://i.postimg.cc/tRBkYcws/download-2024-01-13-T191539-850.png",Discovery Family US
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
 https://webudit.webhd.ru/lb/premium657/index.m3u8
